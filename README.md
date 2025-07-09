@@ -5,6 +5,35 @@ This project demonstrates a secure file transfer system using VB.NET and SFTP. I
 
 ---
 
+## 💡 Business Use Case / Scenario
+
+This project simulates a **secure internal document exchange** between departments or systems.
+
+### 🔹 Example Scenario:
+- The **Finance Department** uses the **SFTS Sender** app to upload payroll reports or confidential Excel documents to the SFTP server.
+- The **Operations Department** uses the **SFTS Recipient** app to download those files to their local machine for processing.
+
+---
+
+### 🔹 Additional Possibilities:
+- The **Recipient App** (console-based) can be easily **integrated into automated workflows** using:
+  - **Task Scheduler** (on Windows)  
+    → To automate the download process at specific times (e.g., daily at 6 AM).
+  - **Batch Scripts or PowerShell**  
+    → To chain file downloads with other tasks, like data imports.
+
+---
+
+### 🔹 Email Notification Feature (Future Idea):
+- After downloading files, the app can be enhanced to:
+  - Automatically **send an email** to notify users that the download is complete.
+  - Attach downloaded files or include a summary of the transfer.
+- This can be achieved using:
+  - **SMTP client libraries** (e.g., `System.Net.Mail` in .NET Framework).
+  - Pre-defined email recipients for each department.
+
+---
+
 ## 📁 Project Components
 
 | App             | Description                                  |
