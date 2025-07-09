@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khazi\\source\\repos\\SFTPClientSender\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DDC2D2-6EF8-42F5-BC67-34455072AAF1}|SFTPClientSender\\SFTPClientSender.vbproj|c:\\users\\khazi\\source\\repos\\sftpclientsender\\sftpclientsender\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F0DDC2D2-6EF8-42F5-BC67-34455072AAF1}|SFTPClientSender\\SFTPClientSender.vbproj|solutionrelative:sftpclientsender\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DDC2D2-6EF8-42F5-BC67-34455072AAF1}|SFTPClientSender\\SFTPClientSender.vbproj|c:\\users\\khazi\\source\\repos\\sftpclientsender\\sftpclientsender\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F0DDC2D2-6EF8-42F5-BC67-34455072AAF1}|SFTPClientSender\\SFTPClientSender.vbproj|solutionrelative:sftpclientsender\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DDC2D2-6EF8-42F5-BC67-34455072AAF1}|SFTPClientSender\\SFTPClientSender.vbproj|c:\\users\\khazi\\source\\repos\\sftpclientsender\\sftpclientsender\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F0DDC2D2-6EF8-42F5-BC67-34455072AAF1}|SFTPClientSender\\SFTPClientSender.vbproj|solutionrelative:sftpclientsender\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\khazi\\source\\repos\\SFTPClientSender\\SFTPClientSender\\App.config",
+              "RelativeDocumentMoniker": "SFTPClientSender\\App.config",
+              "ToolTip": "C:\\Users\\khazi\\source\\repos\\SFTPClientSender\\SFTPClientSender\\App.config",
+              "RelativeToolTip": "SFTPClientSender\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-09T05:34:31.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\khazi\\source\\repos\\SFTPClientSender\\SFTPClientSender\\Form1.vb",
+              "RelativeDocumentMoniker": "SFTPClientSender\\Form1.vb",
+              "ToolTip": "C:\\Users\\khazi\\source\\repos\\SFTPClientSender\\SFTPClientSender\\Form1.vb",
+              "RelativeToolTip": "SFTPClientSender\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-09T05:25:08.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\khazi\\source\\repos\\SFTPClientSender\\SFTPClientSender\\Form1.vb",
+              "RelativeDocumentMoniker": "SFTPClientSender\\Form1.vb",
+              "ToolTip": "C:\\Users\\khazi\\source\\repos\\SFTPClientSender\\SFTPClientSender\\Form1.vb [Design]",
+              "RelativeToolTip": "SFTPClientSender\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-09T05:22:18.094Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
