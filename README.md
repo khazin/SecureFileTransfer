@@ -10,8 +10,8 @@ This project demonstrates a secure file transfer system using VB.NET and SFTP. I
 This project simulates a **secure internal document exchange** between departments or systems.
 
 ### 🔹 Example Scenario:
-- The **Finance Department** uses the **SFTS Sender** app to upload payroll reports or confidential Excel documents to the SFTP server.
-- The **Operations Department** uses the **SFTS Recipient** app to download those files to their local machine for processing.
+- The **Finance Department** uses the **SFTPClientSender** app to upload payroll reports or confidential Excel documents to the SFTP server.
+- The **Operations Department** uses the **SFTPClientRecipient** app to download those files to their local machine for processing.
 
 ---
 
@@ -38,8 +38,8 @@ This project simulates a **secure internal document exchange** between departmen
 
 | App             | Description                                  |
 |-----------------|----------------------------------------------|
-| **SFTS Sender** | A WinForms application for uploading files to the SFTP server. |
-| **SFTS Recipient** | A Console application for downloading files from the SFTP server. |
+| **SFTPClientSender** | A WinForms application for uploading files to the SFTP server. |
+| **SFTPClientRecipient** | A Console application for downloading files from the SFTP server. |
 
 ---
 
